@@ -1,5 +1,5 @@
 # KinD-Cluster
-Deployment off simple node app on KinD Cluster using EC2 and terraform
+Deployment of simple node app on KinD Cluster using EC2 and terraform
 
 ## To deploy the app locally using docker 
  
