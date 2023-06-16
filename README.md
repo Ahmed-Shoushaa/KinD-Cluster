@@ -4,7 +4,7 @@ Deployment of simple node app on KinD Cluster using EC2 and terraform
 ## To deploy the app locally using docker 
  
 ``` sh
-# Fork this git repo
+# Clone this git repo
 git clone https://github.com/Ahmed-Shoushaa/KinD-Cluster.git
 # Change to the repo directory
 cd KinD-Cluster/
